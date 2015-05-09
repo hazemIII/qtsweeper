@@ -1,0 +1,4 @@
+# QTC configs
+**/build-*/*
+**/*.pro.user*
+
